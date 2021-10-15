@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\meric\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\meric\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Flyer Flyer.76412250.00" t="ExcludeRecursive" />
+    <e p="C:\Users\meric\Desktop\Mobile_Game\Plane Runner" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="OurScripts" t="Include">
+          <e p="Camera.cs" t="Include" />
+          <e p="CoinAnimation.cs" t="Include" />
+          <e p="coinrotate.cs" t="Include" />
+          <e p="CoinSpawner.cs" t="Include" />
+          <e p="DeathMenu.cs" t="Include" />
+          <e p="flickerlight.cs" t="Include" />
+          <e p="GameMusic.cs" t="Include" />
+          <e p="MainMenu.cs" t="Include" />
+          <e p="MenuMusic.cs" t="Include" />
+          <e p="prop.cs" t="Include" />
+          <e p="RoadSpawner.cs" t="Include" />
+          <e p="Runner.cs" t="Include" />
+          <e p="Score.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Flyer Flyer.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
